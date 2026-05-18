@@ -1,0 +1,8 @@
+# Copyright (c) 2026 Zevatronics
+# SPDX-License-Identifier: Apache-2.0
+
+board:
+  name: universal_nrf_dongle_uf2
+  vendor: zevatronics
+  socs:
+    - name: nrf52840
